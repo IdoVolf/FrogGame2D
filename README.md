@@ -26,7 +26,7 @@ A fun 2D platformer game made with Python and Pygame. Jump, run, and explore a p
    git clone https://github.com/IdoVolf/FrogGame2D.git
 
 2. Navigate to the project folder:  
-   cd TurtlePlatformer
+   cd FRGD2/code
 
 3. Run the game:  
    python main.py
