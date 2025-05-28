@@ -23,7 +23,7 @@ A fun 2D platformer game made with Python and Pygame. Jump, run, and explore a p
 ### How to Run
 
 1. Clone the repo:  
-   git clone https://github.com/YOUR_USERNAME/TurtlePlatformer.git
+   git clone https://github.com/IdoVolf/TurtlePlatformer.git
 
 2. Navigate to the project folder:  
    cd TurtlePlatformer
