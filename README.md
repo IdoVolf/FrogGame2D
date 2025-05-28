@@ -1,17 +1,17 @@
 # FrogGame2D
 a 2d platformer game made in python using the pygame library 
 
-# TurtlePlatformer
+# Frog Wilds
 
 A fun 2D platformer game made with Python and Pygame. Jump, run, and explore a pixel-perfect world full of challenges and surprises!
 
 ## Features
 
-- Smooth player movement and jumping  
+- ~~Smooth~~ decent player movement and jumping  
 - Multiple levels with unique layouts  
-- Enemies and obstacles to avoid  
-- Collectibles and power-ups  
-- Simple but addictive gameplay
+- Harsh parkour to navigate
+
+
 
 ## Getting Started
 
